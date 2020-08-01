@@ -14,6 +14,7 @@ function Footer() {
         <a href="https://www.alura.com.br/">
           Alura
         </a>
+        <p class="copyright">&copy; Created by Bruno Soares, all rights reserved.</p>
       </p>
     </FooterBase>
   );
