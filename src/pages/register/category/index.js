@@ -7,6 +7,17 @@ function RegisterCategory(){
         <DefaultPage>
             <h1>Register Category</h1>
 
+            <form>
+
+                <label>
+                Category Name:
+                <input type="text"/>
+                </label>
+
+                <button>Register</button>
+                
+            </form>
+
             <Link to="/">
                 Home
             </Link>
